@@ -10,7 +10,7 @@
 - For each visualization (good and bad):  
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
       ```
-      Good: https://public.tableau.com/shared/3P9RYSRPS?:toolbar=n&:display_count=n&:origin=viz_share_link
+      Good: https://public.tableau.com/app/profile/cnbc5283/viz/CoronavirusMap/Dashboard1
 This is a visualization of covid hot spots in the United States, published between January - March 2020. The interactive visualization is aesthetically pleasing to view, as you can hover over cities and states, and zoom into specific counties as well. The grey visualization gives the focus on the blue circles, with the size showcasing at first glance the larger 'hot spots' and smaller 'hot spots' throughout the country. It is also aiming to present accurate data gathered from CNBC as it provides the number of confirmed cases, total population, and cases/population. It is also perceptual, where we can understand what message the makrer of the visualization is attempting to convey. In terms of purpose, it aims to evaluate and help others explore hot spots throughout the US, and the intended audience could be the general public since it doesn't overcomplicate the visualizations. in addition to public health officials to help understand where to allocate public health resources and management. Using Gestalt principles, they use proximity and figure ground to help viewers see where the hotspots cluster. In terms of cognitive load, it is germane (familiar) given that it is the US map (with clearly labeled states, legends), but there is extraneous complexity. Finally, it is two-dimensional, clean layout, use of good geometric shapes (and the size)
 
 Bad: https://www.behance.net/gallery/21974687/Belgian-trade-balance
@@ -18,7 +18,7 @@ This is a visualization of Belgium's trade balance. While the colours make it vi
       ```
     - How could this data visualization have been improved?  
       ```
-Good: https://public.tableau.com/shared/3P9RYSRPS?:toolbar=n&:display_count=n&:origin=viz_share_link
+Good: https://public.tableau.com/app/profile/cnbc5283/viz/CoronavirusMap/Dashboard1
 The visualization could have included different colours to depict the different sizes of hotspots, to allow for a broad cross-comparison of where the largest hotspots were and the small hotspot clusters (e.g., colour could have encoded categorical data). For example, they could have used a colour gradient (e.g., light to dark blue) to depict hotspot sizes as well. While they say the data is from CNBC, it is not clear how this data was collected or where the main source is from. The larger number of small hotspots can make the visualization overwhelming, especially on the north-east region of the US (e.g., extraneous cognitive load). 
 
 Bad: https://www.behance.net/gallery/21974687/Belgian-trade-balance
